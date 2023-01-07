@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/fooledyouonce](https://github.com/fooledyouonce)
 
-- 💬 Ask me about **Android development**
+- 💬 Ask me about **Android Development**
 
 - 📫 How to reach me **emilycrowl2k@gmail.com**
 
