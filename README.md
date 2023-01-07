@@ -1,7 +1,7 @@
 <h1 align="center">Hello world! I'm Emily</h1>
 <h3 align="center">A passionate computer science student and Android developer</h3>
 
-- 🌱 I’m currently learning **Machine Learning, Compilers**
+- 🌱 I’m currently learning **Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/fooledyouonce](https://github.com/fooledyouonce)
 
