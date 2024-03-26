@@ -1,11 +1,11 @@
 <h1 align="center">Hello world! I'm Emily</h1>
 <h3 align="center">A passionate computer science student and Android developer</h3>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Data Analysis with Python and Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/fooledyouonce](https://github.com/fooledyouonce)
 
-- 💬 Ask me about **Android Development**
+- 💬 Ask me about **Android Development (intermediate), Web Development (beginner)**
 
 - 📫 How to reach me **emilycrowl2k@gmail.com**
 
